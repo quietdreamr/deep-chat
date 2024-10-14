@@ -7,7 +7,7 @@
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "project": "component/tsconfig.json"
+    "project": "./deep-chat/component/tsconfig.json"
   },
   "plugins": ["@typescript-eslint"],
   "env": {
